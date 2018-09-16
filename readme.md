@@ -9,6 +9,8 @@
 
 딥러닝 -> buzz word -> deep neural network
 딥러닝 체험: http://playground.tensorflow.org
-
+```
+### 180905
+```
 
 ```
